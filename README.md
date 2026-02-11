@@ -1,4 +1,4 @@
-# ScholarSync: Intelligent Knowledge Platform
+# InsightEngine: Knowledge Retreival Assistant
 
 A "Research Assistant" platform leveraging Advanced RAG and Multimodal AI.
 
