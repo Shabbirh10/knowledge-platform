@@ -1,6 +1,6 @@
 # ScholarSync: Intelligent Knowledge Platform
 
-A "Smart Netflix for Books/Docs" and "Research Assistant" platform leveraging Advanced RAG and Multimodal AI.
+A "Research Assistant" platform leveraging Advanced RAG and Multimodal AI.
 
 ## System Architecture
 
