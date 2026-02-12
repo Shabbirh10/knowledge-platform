@@ -11,7 +11,6 @@ Screenshots
 # 🎯 InsightEngine: A Knowledge Retrieval Assistant
 
 > *Your personal research intern, powered by Gemini and Advanced RAG.*
->>>>>>> 1a5cbb0 (Rename project to InsightEngine and update README with human-like tone)
 
 InsightEngine is more than just a document viewer. It’s a platform designed for researchers, students, and curious minds who want to **talk to their documents** instead of just reading them. Whether you're scanning a 200-page academic paper or just curious about a specific detail in a user manual, InsightEngine helps you find the needle in the haystack instantly.
 
