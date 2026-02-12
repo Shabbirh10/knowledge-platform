@@ -5,9 +5,10 @@ import os
 # Configuration
 API_URL = os.getenv("API_URL", "http://localhost:8000/api/v1")
 
-st.set_page_config(page_title="Intelligent Knowledge Platform", layout="wide")
+st.set_page_config(page_title="InsightEngine", layout="wide")
 
-st.title("🧠 Intelligent Knowledge Platform")
+st.title("🎯 InsightEngine")
+st.subheader("A Knowledge Retrieval Assistant")
 st.markdown("Upload documents and ask questions using advanced RAG.")
 
 # Sidebar for file upload

@@ -2,7 +2,7 @@ from pydantic_settings import BaseSettings
 from functools import lru_cache
 
 class Settings(BaseSettings):
-    APP_NAME: str = "Intelligent Knowledge Platform"
+    APP_NAME: str = "InsightEngine - A Knowledge Retrieval Assistant"
     GOOGLE_API_KEY: str
     CHROMA_PERSIST_DIRECTORY: str = "./chroma_db"
 

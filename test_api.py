@@ -11,7 +11,7 @@ def test_api():
     try:
         response = requests.post(f"{API_URL}/upload/text", json={
             "title": "Test Doc",
-            "content": "The Intelligent Knowledge Platform is a powerful RAG system built with FastAPI and Gemini.",
+            "content": "InsightEngine is a powerful Knowledge Retrieval Assistant system built with FastAPI and Gemini.",
             "metadata": {"source": "test_script"}
         })
         response.raise_for_status()
@@ -30,7 +30,7 @@ def test_api():
     print("\nQuerying...")
     try:
         response = requests.post(f"{API_URL}/query", json={
-            "query": "What is the Intelligent Knowledge Platform?",
+            "query": "What is InsightEngine?",
             "n_results": 1
         })
         response.raise_for_status()
